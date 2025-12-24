@@ -1,5 +1,5 @@
 {
-  "name": "email-templates",
+  "name": "@androidmydream/email-templates",
   "version": "1.0.0",
   "description": "React Email templates for authentication flows with multi-language support",
   "main": "dist/index.js",
