@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.local
+.vscode/
+.idea/
+.npmrc
+
+
+# Changesets
+.changeset/.tmp
+
+# 其他常见
+.env
+.env.local
