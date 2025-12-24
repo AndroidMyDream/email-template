@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.2
+
+### Patch Changes
+
+- solve merge pro
+- df6fc7a: modify package name
+
 ## 1.0.1
 
 ### Patch Changes
